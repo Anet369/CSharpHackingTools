@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDos", "WebDos\WebDos.csproj", "{27837E4D-0246-4834-A631-F5F99BAC9301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubdomainEnumerator", "SubdomainEnumerator\SubdomainEnumerator.csproj", "{A8B4A5DC-1818-48FA-AACF-6EEECC5E206E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27837E4D-0246-4834-A631-F5F99BAC9301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27837E4D-0246-4834-A631-F5F99BAC9301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27837E4D-0246-4834-A631-F5F99BAC9301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27837E4D-0246-4834-A631-F5F99BAC9301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B4A5DC-1818-48FA-AACF-6EEECC5E206E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B4A5DC-1818-48FA-AACF-6EEECC5E206E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B4A5DC-1818-48FA-AACF-6EEECC5E206E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B4A5DC-1818-48FA-AACF-6EEECC5E206E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
